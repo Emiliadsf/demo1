@@ -8,5 +8,6 @@ public class test4 {
         System.out.println("master");
         System.out.println("push test");
         System.out.println("拉取 test");
+        System.out.println("拉取 dadadadadaddada");
     }
 }
